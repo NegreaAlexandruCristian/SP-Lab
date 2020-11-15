@@ -27,7 +27,6 @@ public class Section implements Element{
         System.out.println(this.title);
         for(Element element: this.elements){
             element.print();
-
         }
     }
 }

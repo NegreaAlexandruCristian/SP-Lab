@@ -1,10 +1,15 @@
 package book;
 
+import utils.ImageContent;
+import utils.ImageContentFactory;
+
 import java.util.concurrent.TimeUnit;
 
 public class Image implements Element{
 
     private String imageName;
+    private ImageContent content;
+    private ImageContentFactory factory;
 
     public Image(){
 
@@ -13,6 +18,7 @@ public class Image implements Element{
     public Image(String imageName){
 
         this.imageName = imageName;
+        factory = new ImageContentFactory();
 
         try {
 
@@ -22,6 +28,14 @@ public class Image implements Element{
 
             e.printStackTrace();
         }
+    }
+
+    public ImageContent getContent(){
+        return this.content;
+    }
+
+    public void setContent(String type){
+        content = factory.loadImage(type);
     }
 
     public String getImageName() {
