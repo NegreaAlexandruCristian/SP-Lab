@@ -51,11 +51,6 @@ public class Book {
         this.tableOfContents = tableOfContents;
     }
 
-    public TableOfContents getTableOfContents() {
-
-        return this.tableOfContents;
-    }
-
     public void print(){
 
         System.out.println("The book name is : " +  this.title);
