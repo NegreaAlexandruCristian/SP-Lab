@@ -3,7 +3,6 @@ package book;
 import utils.AlignCenter;
 import utils.AlignLeft;
 import utils.AlignRight;
-import utils.Dimension;
 
 public class Main {
 
