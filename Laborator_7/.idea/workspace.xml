@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46a134d4-1633-42b6-8473-086844e0a07c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/Laborator_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/out/production/Laborator_3/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/out/production/Laborator_3/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/out/production/Laborator_3/Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/out/production/Laborator_3/Image.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/out/production/Laborator_3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/out/production/Laborator_3/Paragraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/out/production/Laborator_3/Section.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/out/production/Laborator_3/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/out/production/Laborator_3/TableOfContents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/src/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/src/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/src/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/src/Paragraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/src/Section.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/src/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_3/src/TableOfContents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/Laborator_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/out/production/Laborator_4/book/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/out/production/Laborator_4/book/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/out/production/Laborator_4/book/Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/out/production/Laborator_4/book/Image.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/out/production/Laborator_4/book/ImageProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/out/production/Laborator_4/book/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/out/production/Laborator_4/book/Paragraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/out/production/Laborator_4/book/Section.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/out/production/Laborator_4/book/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/out/production/Laborator_4/book/TableOfContents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/out/production/Laborator_4/utils/Dimension.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/src/book/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/src/book/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/src/book/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/src/book/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/src/book/ImageProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/src/book/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/src/book/Paragraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/src/book/Section.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/src/book/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/src/book/TableOfContents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_4/src/utils/Dimension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/Laborator_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/book/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/book/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/book/Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/book/Image.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/book/ImageProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/book/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/book/Paragraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/book/Section.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/book/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/book/TableOfContents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/utils/AlignCenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/utils/AlignLeft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/utils/AlignRight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/utils/AlignStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/utils/BMPImageContent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/utils/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/utils/Dimension.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/utils/ImageContent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/utils/ImageContentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/out/production/Laborator_5/utils/JpgImageContent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/book/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/book/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/book/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/book/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/book/ImageProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/book/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/book/Paragraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/book/Section.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/book/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/book/TableOfContents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/utils/AlignCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/utils/AlignLeft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/utils/AlignRight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/utils/AlignStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/utils/BMPImageContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/utils/Context.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/utils/Dimension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/utils/ImageContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/utils/ImageContentFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_5/src/utils/JpgImageContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/lab6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/out/production/lab6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/out/production/lab6/model/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/model/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/model/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/model/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/model/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/model/ImageProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/model/Paragraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/model/Section.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/model/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/model/TableOfContents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/model/Visitee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/model/Visitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/services/AlignCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/services/AlignLeft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/services/AlignRight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/services/AlignStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/services/BookStatistics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/services/Context.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/services/PrintContentsVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/utils/BMPImageContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/utils/Dimension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/utils/ImageContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/utils/ImageContentFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator_6/lab6/src/utils/JpgImageContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_1/Laboratul_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_1/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/Laboratul_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/out/production/Laboratul_1/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/out/production/Laboratul_1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/src/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/src/Chapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/src/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/src/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/src/Paragraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/src/SubChapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/src/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratul_2/src/TableOfContents.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Alex\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.8194.7\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lYgF5gBaSTCZByIIpmHL4Rp2Cn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Laborator 7" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46a134d4-1633-42b6-8473-086844e0a07c" name="Default Changelist" comment="" />
+      <created>1607779333383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607779333383</updated>
+      <workItem from="1607779334615" duration="140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
