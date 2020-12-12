@@ -1,8 +1,9 @@
-package book;
+package model;
 
 import java.util.ArrayList;
+import java.util.List;
 
-public class Book {
+public class Book implements Element{
 
     private String title;
     private TableOfContents tableOfContents;
@@ -13,6 +14,14 @@ public class Book {
         this.title = title;
         this.authors = new ArrayList<>();
         this.elements = new ArrayList<>();
+    }
+
+    public void addElements(Element e){
+        this.elements.add(e);
+    }
+
+    public List<Element> getElements() {
+        return elements;
     }
 
     public String getTitle(){
@@ -51,16 +60,9 @@ public class Book {
         this.tableOfContents = tableOfContents;
     }
 
-    public void print(){
 
-        System.out.println("The book name is : " +  this.title);
-        System.out.println("The authors name's are.. " );
-        for(Author author: authors){
-            author.print();
-        }
-        System.out.println("The book's contents are : ");
-        for(Element element: elements){
-            element.print();
-        }
+    @Override
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
     }
 }

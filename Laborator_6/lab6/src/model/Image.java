@@ -1,4 +1,4 @@
-package book;
+package model;
 
 import utils.ImageContent;
 import utils.ImageContentFactory;
@@ -47,7 +47,8 @@ public class Image implements Element{
     }
 
     @Override
-    public void print(){
-        System.out.println("This image name is : " + this.imageName);
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
     }
+
 }

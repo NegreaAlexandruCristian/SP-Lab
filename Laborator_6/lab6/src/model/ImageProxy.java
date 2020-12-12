@@ -1,4 +1,4 @@
-package book;
+package model;
 
 import utils.Dimension;
 
@@ -11,6 +11,11 @@ public class ImageProxy implements Element{
     public ImageProxy(String url, Dimension dim) {
         this.url = url;
         this.dim = dim;
+    }
+
+    public ImageProxy(String url){
+        this.url = url;
+        this.dim = new Dimension(460,460);
     }
 
     public String getUrl() {
@@ -29,7 +34,7 @@ public class ImageProxy implements Element{
         this.dim = dim;
     }
 
-    private Image loadImage(){
+    public Image loadImage(){
 
         if(image == null){
 
@@ -40,9 +45,7 @@ public class ImageProxy implements Element{
     }
 
     @Override
-    public void print() {
-
-        this.loadImage().print();
-        dim.printDimension();
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
     }
 }

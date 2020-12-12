@@ -1,16 +1,11 @@
-package book;
+package model;
 
-import utils.AlignStrategy;
-import utils.Context;
+import services.AlignStrategy;
 
 public class Paragraph implements Element{
 
     private String text;
     private AlignStrategy textAlignemnt;
-
-    public Paragraph(){
-
-    }
 
     public Paragraph(String text){
         this.text = text;
@@ -26,20 +21,19 @@ public class Paragraph implements Element{
     }
 
     public void setAlignStrategy(AlignStrategy textAlignemnt){
+        this.textAlignemnt = textAlignemnt;
+    }
 
+    public AlignStrategy getTextAlignemnt() {
+        return textAlignemnt;
+    }
+
+    public void setTextAlignemnt(AlignStrategy textAlignemnt) {
         this.textAlignemnt = textAlignemnt;
     }
 
     @Override
-    public void print(){
-
-        if(this.textAlignemnt != null){
-
-            this.textAlignemnt.render(this.text, new Context());
-            return;
-        }
-
-        System.out.println("This paragraph text is : " + this.text);
-
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
     }
 }

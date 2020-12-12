@@ -1,6 +1,4 @@
-package utils;
-
-import book.Paragraph;
+package services;
 
 public interface AlignStrategy {
 

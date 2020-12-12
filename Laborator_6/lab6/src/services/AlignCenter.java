@@ -1,4 +1,4 @@
-package utils;
+package services;
 
 public class AlignCenter implements AlignStrategy{
     @Override
